@@ -37,5 +37,5 @@ Included in the field of precision agriculture, this project aims to produce a p
 * The web interface allows monitoring of the system status in real time.
 * The web interface displays information on daily water consumption.
 
-![](/images/client_server_architecture.png)
+![](/client_server_architecture.png)
 
