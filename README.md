@@ -1,5 +1,3 @@
-# EL KANTRI Youssef portfolio
-
 ## [Project 1: Smart Irrigation ](https://github.com/ysfelkantri/Smart_irrigation) 
 
 **About** : Collaborating on an edge computing system app related to precision farming field that collects information to monitor plants, intervenes for agricultural management, supervise the irrigation system in real time and automatically guide this process.
