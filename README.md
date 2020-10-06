@@ -15,13 +15,13 @@ The irrigation system is therefore essentially based on:
 * Client / server communication via remote communication protocols and mobile / web applications.
 
 
-## [Project 2: food manager website ](https://github.com/ysfelkantri/Smart_irrigation) 
+## [Project 2: food manager website ](https://github.com/ysfelkantri/food_web_site) 
 
 **about** : Creation of a website using BootStrap, HTML, CSS, JavaScript, Bootstrap, PHP  MySQL database and spoonacular [API](https://spoonacular.com/food-api/docs).
 *  The idea behind this web-site is to manage foods combining restaurant meals and cooking at home to help you find and organize restaurant:
-      ✓ find recipes to use ingredients you already have ("what's in your fridge" search)
-      ✓ find recipes based on nutritional requirements
-      ✓ manage your favories list. 
+      - ✓ find recipes to use ingredients you already have ("what's in your fridge" search)
+      - ✓ find recipes based on nutritional requirements
+      - ✓ manage your favories list. 
 *  We automatically analyze recipes to check for ingredients that contain common allergens, such as wheat, dairy, eggs, soy, nuts, etc. We also determine whether a recipe is vegan, vegetarian, Paleo friendly, Whole30 compliant, and more.
 *  We compute the nutritional information for recipes automatically using a proprietary algorithm. With this information, you can find individual recipes or even create entire meal plans that satisfy your users' dietary goals.
    
