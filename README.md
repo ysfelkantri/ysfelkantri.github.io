@@ -37,3 +37,23 @@ Included in the field of precision agriculture, this project aims to produce a p
 
 ![](/client_server_architecture.png)
 
+
+## [Project 4: Image Classification Using Convolutional Neural Network CNN ](https://github.com/ysfelkantri/CNN_CIFAR10) 
+
+**About** : The purpose of this project is to look at CNN architecture, and test its performance on the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) Dataset.
+
+a classification approach based on convolutional neural networks , This project is divided into 4 parts: 
+*  Loading and displaying cifar-10 dataset 
+*  Pre-processing dataset 
+*  Building the model 
+*  Testing the model
+
+for this we used a model with a specified architecture and we showed the different results obtained in terms of precision and error. The analysis of the results found has shown that the CNN is a very powerful way to classify image since it gives very high accuracy (86%) and low error.
+
+![](/CNN_model_accuracy.PNG)
+
+
+
+
+
+
