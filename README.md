@@ -12,8 +12,20 @@ The irrigation system is therefore essentially based on:
 * The implementation of appropriate software in the embedded systems under a C, Python and Linux environment.
 * Client / server communication via remote communication protocols and mobile / web applications.
 
+## [Project 2: data logger server](https://github.com/ysfelkantri/data_logger_server)
 
-## [Project 2: food manager website ](https://github.com/ysfelkantri/food_web_site) 
+**About** : Collaborating on creating a controlled system to read from sensors using modbus protocole and raspberry pi 4 as a server 
+
+
+we used the raspberry pi as a server because it allows to connect several serial port slaves, using _Modbus_ data communications protocol with RTU frame format, used on asynchronous serial data lines _RS-485_, for the backend we used django framework and the celery server to execute some background tasks with a specific periodicity
+
+we have created this system using a client/server architecture a solution that provides :
+* ***Centralized resources*** : given that the server is at the center of the network, it can manage resources common to all users, such as the centralized database, for example, in order to avoid redundancy problems and contradiction
+* ***Better security*** : because the number of entry points allowing access to data is less important
+* ***A scalable network*** : thanks to this architecture it is possible to remove or add clients without disturbing the functioning of the network and without major modification
+
+
+## [Project 3: food manager website ](https://github.com/ysfelkantri/food_web_site) 
 
 **About** : Collaborating on creating a website using HTML, CSS, JavaScript, Bootstrap, PHP, MySQL database and [spoonacular API](https://spoonacular.com/food-api/docs).
 *  The idea behind this web-site is to manage foods combining restaurant meals and cooking at home to help you find and organize restaurant:
@@ -24,7 +36,7 @@ The irrigation system is therefore essentially based on:
 *  We compute the nutritional information for recipes automatically using a proprietary algorithm. With this information, you can find individual recipes or even create entire meal plans that satisfy your users' dietary goals.
    
    
-## [Project 3: watering cows controlled system ](https://github.com/ysfelkantri/embedded_soft_project) 
+## [Project 4: watering cows controlled system ](https://github.com/ysfelkantri/embedded_soft_project) 
 
 **About** : a prototype of a controlled system to solve the problem related to the watering of dairy cows
 
@@ -35,10 +47,16 @@ Included in the field of precision agriculture, this project aims to produce a p
 * The web interface allows monitoring of the system status in real time.
 * The web interface displays information on daily water consumption.
 
+##### objectives of this system :
+* Have a controlled system for watering dairy cows without human interaction.
+* Placing a sensor capable of measuring the water level in the field allows farmers to establish a detailed map of the water level in the reservoir.
+* Have access to data related to weekly consumption, which allows you to anticipate trends for the days and weeks to come.
+* Create new business opportunities thanks to freed up time
+
 ![](/client_server_architecture.png)
 
 
-## [Project 4: Image Classification Using Convolutional Neural Network CNN ](https://github.com/ysfelkantri/CNN_CIFAR10) 
+## [Project 5: Image Classification Using Convolutional Neural Network CNN ](https://github.com/ysfelkantri/CNN_CIFAR10) 
 
 **About** : The purpose of this project is to look at CNN architecture, and test its performance on the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) Dataset.
 
@@ -52,7 +70,7 @@ for this we used a model with a specified architecture and we showed the differe
 
 ![](/CNN_model_accuracy.PNG)
 
-## [Project 5: Movie Recommender Systems (Machine learning project)](https://github.com/ysfelkantri/systeme_de_recommandation_des_films)
+## [Project 6: Movie Recommender Systems (Machine learning project)](https://github.com/ysfelkantri/systeme_de_recommandation_des_films)
 
 **about** : Collaborating for improving a movie recommendation system using artificial intelligence under python
 
@@ -61,7 +79,7 @@ we have improved a system for recommending films. The goal of the system is to p
 * user preference (i.e. based on content filtering)
 * the preference of similar users (collaborative filtering, for example). To build a stable and precise environment The recommendation system used in this project is based on element-based collaborative filtering (in this case movies).
 
-## [Project 6: Arrow Detection classifier (convolutional neural network model)](https://github.com/ysfelkantri/Arrow_Detection)
+## [Project 7: Arrow Detection classifier (convolutional neural network model)](https://github.com/ysfelkantri/Arrow_Detection)
 
 **about** : A model to detect arrow's direction using Convolutional Neural Network classifier.
 
@@ -69,7 +87,7 @@ it can be used to orient a robot in its way by reading the arrow's direction to 
 this model can even predict images that has not seen before with very high probability which reflect the power of CNN models in classifying images.
 
 
-## [Project 7: Flappy Man (2D Game)](https://github.com/ysfelkantri/Flappy_Man)
+## [Project 8: Flappy Man (2D Game)](https://github.com/ysfelkantri/Flappy_Man)
 
 **about** : Developing a 2D game using Java Swing Graphical interface and MYSQL database 
 
