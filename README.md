@@ -52,9 +52,18 @@ for this we used a model with a specified architecture and we showed the differe
 
 ![](/CNN_model_accuracy.PNG)
 
-## [Project 5: Flappy Man 2D Game](https://github.com/ysfelkantri/Flappy_Man)
+## [Project 5: Movie Recommender Systems (Machine learning project)](https://github.com/ysfelkantri/systeme_de_recommandation_des_films)
 
-**about** :a 2D game using Java Swing Graphical interface and MYSQL database 
+**about** : Collaborating for improving a movie recommendation system using artificial intelligence under python
+
+we have improved a system for recommending films. The goal of the system is to provide accurate movie recommendations to users. Typically, basic recommendation systems consider one of the following factors to generate recommendations:
+
+*     user preference (i.e. based on content filtering)
+*     the preference of similar users (collaborative filtering, for example). To build a stable and precise environment The recommendation system used in this project is based on element-based collaborative filtering (in this case movies).
+
+## [Project 6: Flappy Man (2D Game)](https://github.com/ysfelkantri/Flappy_Man)
+
+**about** : developing a 2D game using Java Swing Graphical interface and MYSQL database 
 
 ##### Game play 
 
@@ -65,5 +74,5 @@ Each successful pass through a pair of pipes awards the player one point.
 Colliding with a pipe or the ground ends the gameplay. During the game over screen, the player is awarded a bronze medal if they reached 3rd place,
 a silver medal for 2nd place, a gold medal if the 1st place is reache.
 
-
+![](/flappy_man.png)
 
