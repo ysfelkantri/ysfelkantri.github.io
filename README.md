@@ -46,9 +46,11 @@ Included in the field of precision agriculture, this project aims to produce a p
 
 ![](/client_server_architecture.png)
 
+
+
 # artificial intelligent projects :
 
-## [Project 4: Image Classification Using Convolutional Neural Network CNN ](https://github.com/ysfelkantri/CNN_CIFAR10) 
+## [Project 1: Image Classification Using Convolutional Neural Network CNN ](https://github.com/ysfelkantri/CNN_CIFAR10) 
 
 **About** : The purpose of this project is to look at CNN architecture, and test its performance on the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) Dataset.
 
@@ -62,14 +64,14 @@ for this we used a model with a specified architecture and we showed the differe
 
 ![](/CNN_model_accuracy.PNG)
 
-## [Project 5: Arrow Detection classifier (convolutional neural network model)](https://github.com/ysfelkantri/Arrow_Detection)
+## [Project 2: Arrow Detection classifier (convolutional neural network model)](https://github.com/ysfelkantri/Arrow_Detection)
 
 **about** : A model to detect arrow's direction using Convolutional Neural Network classifier.
 
 it can be used to orient a robot in its way by reading the arrow's direction to follow, up down left and right.
 this model can even predict images that has not seen before with very high probability which reflect the power of CNN models in classifying images.
 
-## [Project 6: Movie Recommender Systems (Machine learning project)](https://github.com/ysfelkantri/systeme_de_recommandation_des_films)
+## [Project 3: Movie Recommender Systems (Machine learning project)](https://github.com/ysfelkantri/systeme_de_recommandation_des_films)
 
 **about** : Collaborating for improving a movie recommendation system using artificial intelligence under python
 
@@ -78,9 +80,9 @@ we have improved a system for recommending films. The goal of the system is to p
 * user preference (i.e. based on content filtering)
 * the preference of similar users (collaborative filtering, for example). To build a stable and precise environment The recommendation system used in this project is based on element-based collaborative filtering (in this case movies).
 
-# website project :
+# website projects :
 
-## [Project 7: food manager website ](https://github.com/ysfelkantri/food_web_site) 
+## [Project 1: food manager website ](https://github.com/ysfelkantri/food_web_site) 
 
 **About** : Collaborating on creating a website using HTML, CSS, JavaScript, Bootstrap, PHP, MySQL database and [spoonacular API](https://spoonacular.com/food-api/docs).
 *  The idea behind this web-site is to manage foods combining restaurant meals and cooking at home to help you find and organize restaurant:
@@ -92,7 +94,7 @@ we have improved a system for recommending films. The goal of the system is to p
 
 # game projects :
 
-## [Project 8: Flappy Man (2D Game)](https://github.com/ysfelkantri/Flappy_Man)
+## [Project 1: Flappy Man (2D Game)](https://github.com/ysfelkantri/Flappy_Man)
 
 **about** : Developing a 2D game using Java Swing Graphical interface and MYSQL database 
 
