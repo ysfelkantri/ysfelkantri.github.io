@@ -61,12 +61,19 @@ we have improved a system for recommending films. The goal of the system is to p
 * user preference (i.e. based on content filtering)
 * the preference of similar users (collaborative filtering, for example). To build a stable and precise environment The recommendation system used in this project is based on element-based collaborative filtering (in this case movies).
 
-## [Project 6: Flappy Man (2D Game)](https://github.com/ysfelkantri/Flappy_Man)
+## [Project 6: Arrow Detection classifier (convolutional neural network model)](https://github.com/ysfelkantri/Arrow_Detection)
 
-**about** : developing a 2D game using Java Swing Graphical interface and MYSQL database 
+**about** : A model to detect arrow's direction using Convolutional Neural Network classifier.
+
+it can be used to orient a robot in its way by reading the arrow's direction to follow, up down left and right.
+this model can even predict images that has not seen before with very high probability which reflect the power of CNN models in classifying images.
+
+
+## [Project 7: Flappy Man (2D Game)](https://github.com/ysfelkantri/Flappy_Man)
+
+**about** : Developing a 2D game using Java Swing Graphical interface and MYSQL database 
 
 ##### Game play 
-
 Flappy Man is an arcade-style game in which the player controls the superman, which moves persistently to the right.
 The player is tasked with navigating superman through pairs of pipes that have equally sized gaps placed at random heights.
 superman automatically descends and only ascends when the player taps the touchscreen.
@@ -75,4 +82,12 @@ Colliding with a pipe or the ground ends the gameplay. During the game over scre
 a silver medal for 2nd place, a gold medal if the 1st place is reache.
 
 ![](/flappy_man.png)
+
+
+
+
+
+
+
+
 
