@@ -1,4 +1,4 @@
-# [x] embedded systems projects :
+# embedded systems projects :
 
 ## [Project 1: Smart Irrigation ](https://github.com/ysfelkantri/Smart_irrigation) 
 
@@ -48,7 +48,7 @@ Included in the field of precision agriculture, this project aims to produce a p
 
 
 
-# [x] artificial intelligent projects :
+# artificial intelligent projects :
 
 ## [Project 1: Image Classification Using Convolutional Neural Network CNN ](https://github.com/ysfelkantri/CNN_CIFAR10) 
 
@@ -80,7 +80,7 @@ we have improved a system for recommending films. The goal of the system is to p
 * user preference (i.e. based on content filtering)
 * the preference of similar users (collaborative filtering, for example). To build a stable and precise environment The recommendation system used in this project is based on element-based collaborative filtering (in this case movies).
 
-# [x] website projects :
+# website projects :
 
 ## [Project 1: food manager website ](https://github.com/ysfelkantri/food_web_site) 
 
@@ -92,7 +92,7 @@ we have improved a system for recommending films. The goal of the system is to p
 *  We automatically analyze recipes to check for ingredients that contain common allergens, such as wheat, dairy, eggs, soy, nuts, etc. We also determine whether a recipe is vegan, vegetarian, Paleo friendly, Whole30 compliant, and more.
 *  We compute the nutritional information for recipes automatically using a proprietary algorithm. With this information, you can find individual recipes or even create entire meal plans that satisfy your users' dietary goals.
 
-# [x] game projects :
+#  game projects :
 
 ## [Project 1: Flappy Man (2D Game)](https://github.com/ysfelkantri/Flappy_Man)
 
