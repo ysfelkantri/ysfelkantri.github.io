@@ -21,7 +21,7 @@ The irrigation system is therefore essentially based on:
 
 we used the raspberry pi as a server because it allows to connect several serial port slaves, using _Modbus_ data communications protocol with RTU frame format, used on asynchronous serial data lines _RS-485_, for the backend we used django framework and the celery server to execute some background tasks with a specific periodicity
 
-we have created this system using a client/server architecture a solution that provides :
+we have created this system using a master/slave architecture a solution that provides :
 * ***Centralized resources*** : given that the server is at the center of the network, it can manage resources common to all users, such as the centralized database, for example, in order to avoid redundancy problems and contradiction
 * ***Better security*** : because the number of entry points allowing access to data is less important
 * ***A scalable network*** : thanks to this architecture it is possible to remove or add clients without disturbing the functioning of the network and without major modification
