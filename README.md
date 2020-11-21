@@ -19,8 +19,7 @@ Included in the field of precision agriculture, this project aims to produce a p
 * Create new business opportunities thanks to freed up time
 
 ![](/client_server_architecture.png)
-
-#### [DOCUMENTATION(Francais)](https://github.com/ysfelkantri/embedded_soft_project/blob/master/rapport_Systeme_asservi_d_abreuvement_des_vaches_laitieres.pdf)
+##### [DOCUMENTATION(Francais)](https://github.com/ysfelkantri/embedded_soft_project/blob/master/rapport_Systeme_asservi_d_abreuvement_des_vaches_laitieres.pdf)
 
 ## [Project 2: data logger server](https://github.com/ysfelkantri/data_logger_server)
 
@@ -54,8 +53,7 @@ The irrigation system is therefore essentially based on:
 this an application where we use matlab the backend and the front end to create an application to compress data using Huffman et Shanon-fano Algorithms then calculate the compression ratio for text, and performing the best methode (horizontal, vertical or zigzag) to read an image:
 
 ![](/codage.png)
-
-#### [DOCUMENTATION(Francais)](https://github.com/ysfelkantri/data_coding_App/blob/main/EL_KANTRI_Youssef_GSEII2_compte_rendu_GUIDE_App.pdf)
+##### [DOCUMENTATION(Francais)](https://github.com/ysfelkantri/data_coding_App/blob/main/EL_KANTRI_Youssef_GSEII2_compte_rendu_GUIDE_App.pdf)
 
 # artificial intelligent projects :
 
@@ -64,8 +62,7 @@ this an application where we use matlab the backend and the front end to create 
 Report whose primary objective is to present the activities of an internship at the SIGERLaboratory.   It includes the tools and the approach that can be used to fight Covid-19 using  artificial  intelligence. This  project  is  the  result  of  a  two-months  research  and hard  work  at  the  SIGER  Laboratory  in  Fez,  in  order  to  validate  my  second  year  of engineering cycle in embedded systems. The experience, relationships and interventionsof  my  internship  supervisors  have  been  very  useful  to  reframe  a  study  whose  scopeis very wide.  I wanted to study a topical and still little explored subject:  " Training of a multi-sensor system for Covid-19 detection on existing thermal images".   The choiceof  the  subject  is,  in  fact,  directly  related  to  the  recent  news  with  the  announcementmade  by  the  World  Health  Organization  on  the  danger  of  this  virus  and  how  it  hasparalyzed  the  world  economy.The  SIGER  Laboratory  is  specialized  in  innovativeresearch and therefore allowed us to study this trend closely and try to find a solution tofight against this virus .  Our subject proposes a solution based on artificial intelligenceand  machine  learning  to  predict  whether  a  person  has  the  covid-19  or  not  based  ontemperature, cough and respiratory rhythm which will be collected by a thermal cameraand  microphones.   For  the  training  of  the  model  we  used  an  artificially  created  dataset  while  waiting  to  have  the  real  data  set,  for  the  training  algorithm  we  decided  touse the SVM and random forest because they give good results on classification problems
 
 ![](/SVM_RF.png)
-
-#### [DOCUMENTATION(Francais)](https://github.com/ysfelkantri/Entrainement_d-un_systeme_multi-capteurs_pour_la_detection_du_COVID-19/blob/master/Rapport_de_stage_d-application_sujet5.pdf)
+##### [DOCUMENTATION(Francais)](https://github.com/ysfelkantri/Entrainement_d-un_systeme_multi-capteurs_pour_la_detection_du_COVID-19/blob/master/Rapport_de_stage_d-application_sujet5.pdf)
 
 ## [Project 2: Image Classification Using Convolutional Neural Network CNN ](https://github.com/ysfelkantri/CNN_CIFAR10) 
 
@@ -80,8 +77,7 @@ a classification approach based on convolutional neural networks , This project 
 for this we used a model with a specified architecture and we showed the different results obtained in terms of precision and error. The analysis of the results found has shown that the CNN is a very powerful way to classify image since it gives very high accuracy (86%) and low error.
 
 ![](/CNN_model_accuracy.PNG)
-
-#### [DOCUMENTATION(English)](https://github.com/ysfelkantri/CNN_CIFAR10/blob/master/documentation/projet_CNN_Rapport_IA-LV.pdf)
+##### [DOCUMENTATION(English)](https://github.com/ysfelkantri/CNN_CIFAR10/blob/master/documentation/projet_CNN_Rapport_IA-LV.pdf)
 
 ## [Project 2: Arrow Detection classifier (convolutional neural network model)](https://github.com/ysfelkantri/Arrow_Detection)
 
@@ -98,8 +94,7 @@ we have improved a system for recommending films. The goal of the system is to p
 
 * user preference (i.e. based on content filtering)
 * the preference of similar users (collaborative filtering, for example). To build a stable and precise environment The recommendation system used in this project is based on element-based collaborative filtering (in this case movies).
-
-#### [DOCUMENTATION(English)](https://github.com/ysfelkantri/systeme_de_recommandation_des_films/blob/master/Rapport_PROJET1_IA.docx)
+##### [DOCUMENTATION(English)](https://github.com/ysfelkantri/systeme_de_recommandation_des_films/blob/master/Rapport_PROJET1_IA.docx)
 
 # website projects :
 
