@@ -53,7 +53,7 @@ The irrigation system is therefore essentially based on:
 
 this an application where we use matlab the backend and the front end to create an application to compress data using Huffman et Shanon-fano Algorithms then calculate the compression ratio for text, and performing the best methode (horizontal, vertical or zigzag) to read an image:
 
-![](/codage1.png) ![](/codage2.png)
+![](/codage.png)
 
 #### [DOCUMENTATION(Francais)](https://github.com/ysfelkantri/data_coding_App/blob/main/EL_KANTRI_Youssef_GSEII2_compte_rendu_GUIDE_App.pdf)
 
