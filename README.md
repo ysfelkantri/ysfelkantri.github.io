@@ -71,7 +71,7 @@ for this we used a model with a specified architecture and we showed the differe
 it can be used to orient a robot in its way by reading the arrow's direction to follow, up down left and right.
 this model can even predict images that has not seen before with very high probability which reflect the power of CNN models in classifying images.
 
-## [Project 3: Movie Recommender Systems (Machine learning project)](https://github.com/ysfelkantri/systeme_de_recommandation_des_films)
+## [Project 3: Movie Recommender System (Machine learning project)](https://github.com/ysfelkantri/systeme_de_recommandation_des_films)
 
 **about** : Collaborating for improving a movie recommendation system using artificial intelligence under python
 
