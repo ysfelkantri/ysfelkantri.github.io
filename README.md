@@ -110,7 +110,7 @@ we have improved a system for recommending films. The goal of the system is to p
 
 #  game projects :
 
-## [Project 1: Flappy Man (2D Game)](https://github.com/ysfelkantri/Flappy_Man)
+## [Project 1: Flappy Man (2D Game - Java Swing)](https://github.com/ysfelkantri/Flappy_Man)
 
 **about** : Developing a 2D game using Java Swing Graphical interface and MYSQL database 
 
